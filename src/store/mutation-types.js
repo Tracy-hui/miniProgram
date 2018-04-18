@@ -1,0 +1,3 @@
+export const SAVE_SELECTION = 'SAVE_SELECTION'
+export const SAVE_LATEST = 'SAVE_LATEST'
+export const SAVE_NEWS_DETAILS = 'SAVE_NEWS_DETAILS'
